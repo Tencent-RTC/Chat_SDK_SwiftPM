@@ -16,6 +16,6 @@ let package = Package(
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(name: "ImSDK_Plus_xcframework",
                       url: "https://im.sdk.cloud.tencent.cn/download/plus/8.5.6864/ImSDK_Plus_8.5.6864.xcframework.zip",
-                      checksum: "02a604d2da2cedad1995ffa2f07c69622cf5acbf5d78b86721dfeee93752ca13")
+                      checksum: "0f8bc28c73dfd1a6efb5cb84bc15c6b86fa490336b42cb375e3349622a9cd36c")
     ]
 )
