@@ -15,7 +15,7 @@ let package = Package(
         // Targets are the basic building blocks of a package, defining a module or a test suite.
         // Targets can depend on other targets in this package and products from dependencies.
         .binaryTarget(name: "ImSDK_Plus_xcframework",
-                      url: "https://im.sdk.cloud.tencent.cn/download/plus/8.9.7511/ImSDK_Plus_8.9.7511.xcframework.zip",
-                      checksum: "79d59b964a3b28920f0351435e2d9fef849d5e5ee96ab31f2ac6e5ac0e63e599")
+                      url: "https://im.sdk.cloud.tencent.cn/download/plus/9.0.7652/ImSDK_Plus_9.0.7652.xcframework.zip",
+                      checksum: "561a3e647b5f3b704d81dfe3dae7d804a743a25646e97b1cb999c7bed1ca39a2")
     ]
 )
