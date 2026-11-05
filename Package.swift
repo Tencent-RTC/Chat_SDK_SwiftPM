@@ -45,7 +45,8 @@ let package = Package(
         ),
         .binaryTarget(
             name: "ImSDKForMac_Plus",
-            path: "Artifacts/ImSDKForMac_Plus.xcframework"
+            url: "https://im.sdk.cloud.tencent.cn/download/plus/9.1.7824/ImSDKForMac_Plus_9.1.7824.xcframework.zip",
+            checksum: "578e6f94075879014941004dc1781fdedc6628cc863606fbaae6bfc567d9e17a"
         )
     ]
 )
